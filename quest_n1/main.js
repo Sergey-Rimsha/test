@@ -81,6 +81,4 @@ appData.moneyPerDay = appData.budget / 30;
 
 alert('Daily budget' + appData.moneyPerDay.toFixed(2));
 
-
-
 console.log('Ошибок нет');
